@@ -1,0 +1,15 @@
+h1{
+	color: #0c0c0c;
+	font-weight: bold;
+	transition: 0.5s;
+    background-color: rgb(250, 245, 249);
+}
+.rheading text-center my-5{
+	color:#000000;
+    background-color: rgb(240, 243, 242);
+    
+}
+p{
+    color: rgb(49, 46, 49);
+   background-color:rgb(246, 248, 250)
+}

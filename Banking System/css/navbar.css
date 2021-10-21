@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 15px;
+	color:#8b0a0a;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+	color: #801cf3;
+	letter-spacing: 0.5px;
+}
+h2{
+	color: #050505;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
+
+.collapse navbar-collapse{
+	background-color: rgb(187, 233, 245);
+}
+nav{
+	background-color: rgb(167, 245, 241);
+}
+a{
+	background-color: rgb(175, 215, 231);
+	width: 350px;
+	text-align: center;
+}

@@ -1,0 +1,38 @@
+ *{
+	padding: 0;
+	margin: 0;
+	background-image: url(11.jpg);
+	
+	
+	
+}
+  h2{
+	font-size: 40px;
+	
+}
+table{
+	letter-spacing: 1.2px;
+	background-color: rgb(150, 201, 30);
+	border: 10px solid black;
+	border-color: maroon;
+	box-shadow: -1px 12px 12px -6x rgba(0, 0,0, 0.5);
+}
+tr{
+	background-color: rgb(103, 177, 187);
+	border: 1px solid black;
+}
+td{
+	text-align: center;
+	background-color: rgb(184, 191, 199);
+	border: 1px solid black;
+} 
+button{
+	border:none;
+	background: #b8f7b8;
+    transition: 1s;
+}
+@media only screen and (orientation: portrait){
+	*{
+		letter-spacing: 1px;
+	}
+}
